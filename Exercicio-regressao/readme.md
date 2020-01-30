@@ -40,6 +40,6 @@ Alessandra	rumo	knn
 
 Felipe	rumo	arvore
 
-Jéssica	rumo	regressao linear# upload dos notebooks com regressao
+Jéssica	rumo	regressao linear
 
 ### 2) Compare o resultado dessa regressão com um modelo de regressão regularizada (Ridge ou Lasso)
